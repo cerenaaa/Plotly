@@ -1,3 +1,1 @@
-# Plotly
-plotly charts
-This repo is full of plotly charts.
+g the README file. Adding some more details about the project description.
